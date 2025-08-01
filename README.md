@@ -5,21 +5,19 @@
 
 
 
-- 🔭 I’m currently working on **Renting Management System**
+- 🔭 I’m currently working on **AI Agents and dApp web3 in Solana**
 
-- 🌱 I’m currently learning **Laravel, AI-ML, DSA Using Java**
+- 🌱 I’m currently learning **System Design, AI-ML, Rust**
 
-- 👯 I’m looking to collaborate on **Php**
+- 👯 I’m looking to collaborate on **Agentic AI and Web3**
 
-- 🤝 I’m looking for help with **MERN Stack**
+- 🤝 I’m looking for help with **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [http://mayank-kr-prasad.infinityfreeapp.com/](http://mayank-kr-prasad.infinityfreeapp.com/)
 
-- 💬 Ask me about **Full Stack Developement(Php & MySql as Backend)**
+- 💬 Ask me about **Full Stack Developement(MERN, DSA, AWS - GCP cloud, Api creation, desingning)**
 
 - 📫 How to reach me **222kumarmayank@gmail.com**
-
-- 📄 Know about my experiences [https://bronze-daphne-95.tiiny.site](https://bronze-daphne-95.tiiny.site)
 
 - ⚡ Fun fact **I think i'm very curious and passionate towards technology, and i also love my work, what i do, which keeps me moving forward.**
 
